@@ -4,4 +4,7 @@ testing
 chatgpt 30 days challenge
 last seen
 hide  method report
+add audio
+add video
+
 
